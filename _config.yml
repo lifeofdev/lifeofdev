@@ -15,11 +15,11 @@ side_bar_repo_limit: 5
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Loc Nguyen
+author: Life Of Dev
 organization: 
 organization_url: 
 github_username: lifeofdev
-location: HCM, Viet Name
+location: HCM, Vietnam
 email: www.nqloc@gmail.com
 
 # ---------------- #
@@ -31,7 +31,7 @@ navs:
     label: Home
 
   -
-    href: /categories/
+    href: /categories
     label: Categories
 
 #   -
@@ -39,15 +39,19 @@ navs:
 #     label: archives
 
   -
-    href: /wiki/
+    href: /wiki
     label: Wiki
 
   -
-    href: /links/
+    href: /links
     label: Links
 
   -
-    href: /about/
+    href: /bookmrark
+    label: Bookmrark
+
+  -
+    href: /about
     label: About
 
 # ---------------- #
