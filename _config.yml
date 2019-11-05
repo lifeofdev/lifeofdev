@@ -34,21 +34,9 @@ navs:
     href: /categories
     label: Categories
 
-#   -
-#     href: /archives/
-#     label: archives
-
   -
     href: /wiki
     label: Wiki
-
-  -
-    href: /links
-    label: Links
-
-  -
-    href: /bookmrark
-    label: Bookmrark
 
   -
     href: /about
