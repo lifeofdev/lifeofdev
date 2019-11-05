@@ -1,11 +1,11 @@
 ---
 layout: page
 title: About
-description: 打码改变世界
-keywords: Zhuang Ma, 马壮
+description: About me
+keywords: Life Of Dev, Developer
 comments: true
-menu: 关于
-permalink: /about/
+menu: About
+permalink: /about
 ---
 
 我是马壮，码而生，码而立。
